@@ -1,0 +1,1 @@
+".ds-flex.ds-space-x-5 a.ds-no-tap-higlight"
